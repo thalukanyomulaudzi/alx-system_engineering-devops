@@ -1,3 +1,1 @@
-shell permissions
-update
-updates
+Update shell permissions
