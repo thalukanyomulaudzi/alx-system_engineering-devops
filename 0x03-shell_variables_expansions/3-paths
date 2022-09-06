@@ -1,7 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo $PATH | tr "." "
-" | wc -1
-=======
-echo $PATH | tr "." "
-" | wc -1
+" | wc -l
